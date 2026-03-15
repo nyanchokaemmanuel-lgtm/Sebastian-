@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Emmanuel Nyanchoka - CV & Biography</title>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200&display=swap" rel="stylesheet">
+<img src="b2729403-e5f5-4039-a5df-db2b2d386634.jpg" style="width: 100px; height: 103px">
 <style>
     body {
         font-family: 'Roboto', sans-serif;
